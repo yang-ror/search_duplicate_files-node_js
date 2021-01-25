@@ -11,6 +11,4 @@ This node.js script displays any duplicate files in the current directory and al
 
 Enter "node searchDuplicateFiles.js" in the terminal to run.
 
-<img src="https://github.com/yang-ror/yang-ror-search_duplicate_files/blob/main/Sample_output.png"
-     alt="Sample output"
-     style="width: 100%" />
+<img src="https://github.com/yang-ror/yang-ror-search_duplicate_files/blob/main/Sample_output.png" alt="Sample output" style="width: 100%" />
