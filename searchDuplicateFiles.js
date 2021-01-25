@@ -17,7 +17,7 @@ scanDir(path);
 
 findDuplicate(files);
 
-//recursion through all directories, and record information for all files scanned.
+//recurse through all directories, and record information for all files scanned.
 function scanDir(path){
     var items = fs.readdirSync(path);
 
